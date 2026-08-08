@@ -30,10 +30,5 @@ A simple REST API for user authentication and image management built with Larave
 ### Image Upload
 
 ![Image Upload](screenshots/image-upload.png)
-
-## Installation
-
-```bash
-git clone https://github.com/YOUR_USERNAME/image-api.git
-cd image-api
-composer install
+ 
+ 
